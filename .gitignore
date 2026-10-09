@@ -1,0 +1,9 @@
+# Veri dosyalari Git'e girmesin
+data/raw/*.csv
+data/processed/*.csv
+
+# Gecici ortam dosyalari
+__pycache__/
+.venv/
+venv/
+*.log
